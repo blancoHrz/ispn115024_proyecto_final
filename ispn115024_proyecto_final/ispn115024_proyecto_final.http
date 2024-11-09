@@ -1,0 +1,6 @@
+@ispn115024_proyecto_final_HostAddress = http://localhost:5212
+
+GET {{ispn115024_proyecto_final_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
